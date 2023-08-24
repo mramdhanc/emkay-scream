@@ -1,0 +1,133 @@
+.plr-0 {
+    padding-left: 0px !important;
+    padding-right: 0px !important;
+}
+.header {
+    width: 100%;
+}
+html {
+    overflow-x: hidden;
+}
+.cardInnerNew {
+    padding: 10px 0 0;
+    margin: 4px;
+    border-radius: 14px;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    background-color: rgb(255 255 255 / 80%) !important;
+
+    box-shadow: 2px 4px 5px -1px rgba(0,0,0,0.2);
+    -webkit-box-shadow: 2px 4px 5px -1px rgba(0,0,0,0.2);
+    -moz-box-shadow: 2px 4px 5px -1px rgba(0,0,0,0.2);
+}
+.cardInnerNew .imgContainer img {
+    max-width: 100%;
+}
+.cardInnerNew .name {
+    text-align: center;
+    font-size: 11px;
+    height: 35px;
+    display: grid;
+    align-content: end;
+}
+.contentBox {
+    background-color: rgba(237, 241, 248, 0.6) !important
+}
+.price-blocking-title {
+    background-color: #fff;
+    color: #0048a7;
+    text-align: center;
+    font-size: 1.4em;
+
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    border-radius: 5px;
+
+    padding: 7px;
+    font-weight: bold;
+
+    margin: 20px 0px 10px;
+}
+
+.size-title-small {
+    font-size: 0.9em;
+    font-weight: normal;
+}
+h3.rewardtitleNew, h2.rewardtitleNew {
+    margin: 0px;
+    color: #0048a7;
+    text-align: center;
+}
+h2.rewardtitleNew {
+    font-size: 25px;
+    font-weight: bold;
+}
+h4.rewardtitleNew {
+    font-size: 18px;
+    color: #0048a7;
+    text-align: center;
+    margin: 5px;
+    font-weight: bold;
+    line-height: 24px;
+}
+h4.rewardtitleNew strong {
+    font-size: 20px;
+}
+.m-0 {
+    margin: 0px !important;
+}
+.br-redeem-item {
+    color: #fff;
+    border-radius: 5px;
+    padding: 5px !important;
+    display: table;
+    width: 100%;
+    margin: 5px 0px !important;
+
+    background: #2972bc;
+    background: linear-gradient(0deg,#2972bc 0%, #74ccc5 80%);
+    background: -webkit-linear-gradient(0deg,#2972bc 0%, #74ccc5 80%);
+    background: -moz-linear-gradient(0deg,#2972bc 0%, #74ccc5 80%);
+}
+.br-redeem-item .name {
+    width: 65%;
+    font-size: 1.1em;
+    font-weight: 500;
+    display: block;
+    float: left;
+    text-align: left;
+    padding-top: 8px;
+    margin-bottom: 30px;
+}
+.br-redeem-item .imgContainer {
+    width: 30%;
+    margin-right: 10px;
+    display: block;
+    float: left;
+}
+.br-redeem-item .imgContainer img {
+    border-radius: 5px;
+    background-color: rgb(255 255 255 / 20%) !important;
+    box-shadow: 2px 4px 5px -1px rgba(0,0,0,0.2);
+    -webkit-box-shadow: 2px 4px 5px -1px rgba(0,0,0,0.2);
+    -moz-box-shadow: 2px 4px 5px -1px rgba(0,0,0,0.2);
+}
+.small-text {
+    font-size: 11px;
+}
+a.cardInnerNew:hover {
+    color: #fff !important;
+}
+.font-18 {
+    font-size: small !important;
+}
+.mb-5 {
+    margin-bottom: 20px !important;
+}
+.mb-5 {
+    margin-top: 20px !important;
+}
+.full-width img {
+    width: 100%;
+}
